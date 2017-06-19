@@ -43,9 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Additation\Card.cs" />
-    <Compile Include="Additation\Commands.cs" />
+    <Compile Include="Additation\Enum\Commands.cs" />
     <Compile Include="Additation\Player.cs" />
     <Compile Include="Additation\Suit.cs" />
+    <Compile Include="Control.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

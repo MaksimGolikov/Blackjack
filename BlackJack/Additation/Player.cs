@@ -57,9 +57,9 @@ namespace BlackJack.Additation
             else { balance -= sum; }
         }
 
-        public Card ShowCard(int idCard)
+        public string ShowCard(int idCard)
         {
-            return onHand[idCard];
+            return onHand[idCard].Name+"  "+onHand[idCard].Type;
         }
 
 
