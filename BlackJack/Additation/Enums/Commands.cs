@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlackJack.Additation
+namespace BlackJack.Additation.Enums
 {
     enum Commands
     {
